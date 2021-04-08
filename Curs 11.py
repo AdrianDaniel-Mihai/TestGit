@@ -1,0 +1,1 @@
+print('Nimic, gol.')
